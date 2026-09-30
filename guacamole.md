@@ -5,3 +5,5 @@
 * salt
 ## Instructions
 * shake them together
+* Just enjoy it!
+
